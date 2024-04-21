@@ -1,0 +1,497 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/yuval/OneDrive/programming/VHDL/Project/sim
+Ebcd_to_7seg
+Z1 w1710924574
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 765
+R0
+Z6 8../src/bcd_to_7seg.vhd
+Z7 F../src/bcd_to_7seg.vhd
+l0
+L5 1
+VgZoe?eJZ0oRnC2N>URP4@2
+!s100 T9He9Ioim2D[IlVY]h@U00
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1711451493
+!i10b 1
+Z10 !s108 1711451492.000000
+Z11 !s90 -reportprogress|300|../src/bcd_to_7seg.vhd|
+Z12 !s107 ../src/bcd_to_7seg.vhd|
+!i113 1
+Z13 tExplicit 1 CvgOpt 0
+Abehave
+R2
+R3
+R4
+R5
+DEx4 work 11 bcd_to_7seg 0 22 gZoe?eJZ0oRnC2N>URP4@2
+!i122 765
+l14
+L12 37
+VRDm5M>;YL0]GNPWKjP32G2
+!s100 cWA9R1zBiI6^oeK4OZ@4i1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+Ebin2bcd_12bit_sync
+Z14 w1708796727
+R2
+R3
+R4
+R5
+!i122 764
+R0
+Z15 8../src/bin2bcd_12bit_sync.vhd
+Z16 F../src/bin2bcd_12bit_sync.vhd
+l0
+L15 1
+VEGI:XO_9akjzkWGlan:4g3
+!s100 DWM3oHASaJfPifF>Fn>8k2
+R8
+32
+Z17 !s110 1711451492
+!i10b 1
+Z18 !s108 1711451491.000000
+Z19 !s90 -reportprogress|300|../src/bin2bcd_12bit_sync.vhd|
+Z20 !s107 ../src/bin2bcd_12bit_sync.vhd|
+!i113 1
+R13
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 18 bin2bcd_12bit_sync 0 22 EGI:XO_9akjzkWGlan:4g3
+!i122 764
+l32
+L26 85
+Vh:YjiS7T;6gB<^VDRLajd2
+!s100 AUPLaZNE^e>[CnT]4H60C2
+R8
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R13
+Edata_rom
+Z21 w1709469523
+Z22 DPx9 altera_mf 20 altera_mf_components 0 22 BN6nPmY:UEbXa[^5b@FTW1
+R4
+R5
+!i122 759
+R0
+Z23 8../src/IP/data_rom.vhd
+Z24 F../src/IP/data_rom.vhd
+l0
+L43 1
+VEGXEFEIfaNmN=H`1Ff3H32
+!s100 m9Iz`Z41QMTD?Hzc^OCYQ2
+R8
+32
+Z25 !s110 1711451483
+!i10b 1
+Z26 !s108 1711451481.000000
+Z27 !s90 -reportprogress|300|../src/IP/data_rom.vhd|
+Z28 !s107 ../src/IP/data_rom.vhd|
+!i113 1
+R13
+Asyn
+R22
+R4
+R5
+DEx4 work 8 data_rom 0 22 EGXEFEIfaNmN=H`1Ff3H32
+!i122 759
+l60
+L56 33
+VM<afTC;`gXEkn[zU8@^FW1
+!s100 1jf8[YG?9<_JZONh:MaQK3
+R8
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R13
+Emain_controller
+Z29 w1711199060
+Z30 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+R4
+R5
+!i122 763
+R0
+Z31 8../src/main_controller.vhd
+Z32 F../src/main_controller.vhd
+l0
+L8 1
+VmAOCc>m1FTS;=[aLN^><Z2
+!s100 fa1cfkWP?<>AG4zRWa5E40
+R8
+32
+Z33 !s110 1711451491
+!i10b 1
+Z34 !s108 1711451490.000000
+Z35 !s90 -reportprogress|300|../src/main_controller.vhd|
+Z36 !s107 ../src/main_controller.vhd|
+!i113 1
+R13
+Abehave
+R30
+R2
+R3
+R4
+R5
+DEx4 work 15 main_controller 0 22 mAOCc>m1FTS;=[aLN^><Z2
+!i122 763
+l61
+L28 155
+V__BYfHG81^hVlCYh7<I;V1
+!s100 kHHOGQ2o;=?Dh>IjY0h^61
+R8
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R13
+Eserial_data_generator
+Z37 w1710930976
+R2
+R3
+R4
+R5
+!i122 760
+R0
+Z38 8../src/serial_data_generator.vhd
+Z39 F../src/serial_data_generator.vhd
+l0
+L6 1
+VnW86]5<29WSHD[=J>Ph3m2
+!s100 :m]F4SFQ`igcA^d>9gnP52
+R8
+32
+Z40 !s110 1711451484
+!i10b 1
+Z41 !s108 1711451483.000000
+Z42 !s90 -reportprogress|300|../src/serial_data_generator.vhd|
+Z43 !s107 ../src/serial_data_generator.vhd|
+!i113 1
+R13
+Abehave
+R2
+R3
+R4
+R5
+DEx4 work 21 serial_data_generator 0 22 nW86]5<29WSHD[=J>Ph3m2
+!i122 760
+l54
+L21 123
+V4H;Lac:Ll>E[bmFHWZ1iJ2
+!s100 mUAS_>@HfeID[7iJ[kfR03
+R8
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R13
+Eserial_to_parallel
+Z44 w1711185249
+R2
+R3
+R4
+R5
+!i122 762
+R0
+Z45 8../src/serial_to_parallel.vhd
+Z46 F../src/serial_to_parallel.vhd
+l0
+L7 1
+V<dD4]j55SWA:Gk6HXOl;k1
+!s100 Kz7ZEz4liIK>a3IFi@Pdf2
+R8
+32
+Z47 !s110 1711451489
+!i10b 1
+Z48 !s108 1711451488.000000
+Z49 !s90 -reportprogress|300|../src/serial_to_parallel.vhd|
+Z50 !s107 ../src/serial_to_parallel.vhd|
+!i113 1
+R13
+Abehave
+R2
+R3
+R4
+R5
+DEx4 work 18 serial_to_parallel 0 22 <dD4]j55SWA:Gk6HXOl;k1
+!i122 762
+l31
+L25 48
+VSnmGU<HLJoS<:IEX]Vga:2
+!s100 [VY_7kNo@5?Mn14HPF]ki3
+R8
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R13
+Eserial_to_parallel_tb
+Z51 w1711205484
+R2
+R3
+R4
+R5
+!i122 740
+R0
+Z52 8C:/Users/yuval/OneDrive/programming/VHDL/Project/src/serial_to_parallel_tb.vhd
+Z53 FC:/Users/yuval/OneDrive/programming/VHDL/Project/src/serial_to_parallel_tb.vhd
+l0
+L5 1
+VD?_[5eFdS1BHNn1MPULbY2
+!s100 KW6XH2l;fnaWmV`Ga6gF<1
+R8
+32
+Z54 !s110 1711205490
+!i10b 1
+Z55 !s108 1711205490.000000
+Z56 !s90 -reportprogress|300|C:/Users/yuval/OneDrive/programming/VHDL/Project/src/serial_to_parallel_tb.vhd|
+Z57 !s107 C:/Users/yuval/OneDrive/programming/VHDL/Project/src/serial_to_parallel_tb.vhd|
+!i113 1
+R13
+Abehave
+R2
+R3
+R4
+R5
+DEx4 work 21 serial_to_parallel_tb 0 22 D?_[5eFdS1BHNn1MPULbY2
+!i122 740
+l40
+L8 66
+VH]6>ndBkKzaWLQL>onz;Z1
+!s100 F9C2BjX[9Oa^<FkX<C0b]0
+R8
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R13
+Atestbench
+R4
+R5
+DEx4 work 21 serial_to_parallel_tb 0 22 ^UJV^cNNONglUVi??F3I:0
+!i122 97
+l33
+L7 76
+Vf:XKdF1aB^NfB_G?2iheZ2
+!s100 ?HE^VdLOYG2?>^NzfBe<T2
+R8
+32
+!s110 1709927570
+!i10b 1
+!s108 1709927570.000000
+R56
+R57
+!i113 1
+R13
+w1709927566
+Eserialtoparallel_tb
+Z58 w1709885082
+R4
+R5
+!i122 17
+R0
+R52
+R53
+l0
+L4 1
+V4T2`FRig[TlO=[MNbm41J0
+!s100 5eA<8^b[hPFK7g:TaC>4P1
+R8
+32
+Z59 !s110 1709885089
+!i10b 1
+Z60 !s108 1709885089.000000
+R56
+R57
+!i113 1
+R13
+Abehave
+R4
+R5
+DEx4 work 19 serialtoparallel_tb 0 22 4T2`FRig[TlO=[MNbm41J0
+!i122 17
+l34
+L7 51
+V5CP:bb1MXlL]5>7i9aFzd1
+!s100 zmcm6?m_eNLeMVbGV870e0
+R8
+32
+R59
+!i10b 1
+R60
+R56
+R57
+!i113 1
+R13
+Estatistics_calc
+Z61 w1711199583
+R30
+R2
+R3
+R4
+R5
+!i122 766
+R0
+Z62 8../src/statistics_calc.vhd
+Z63 F../src/statistics_calc.vhd
+l0
+L7 1
+VgNeLmAN2Q9Ci6HoBl^UR?3
+!s100 0bg1DDaBiHTSTZOL26_Q@0
+R8
+32
+Z64 !s110 1711451494
+!i10b 1
+Z65 !s108 1711451493.000000
+Z66 !s90 -reportprogress|300|../src/statistics_calc.vhd|
+Z67 !s107 ../src/statistics_calc.vhd|
+!i113 1
+R13
+Astructural
+R30
+R2
+R3
+R4
+R5
+DEx4 work 15 statistics_calc 0 22 gNeLmAN2Q9Ci6HoBl^UR?3
+!i122 766
+l136
+L22 238
+VKa;K5a3<5M4RL6:B^l5dQ2
+!s100 ZZI:[cLDS;b3H43KA8>@@3
+R8
+32
+R64
+!i10b 1
+R65
+R66
+R67
+!i113 1
+R13
+Estatistics_calc_tb
+Z68 w1710744779
+R2
+R3
+R4
+R5
+!i122 767
+R0
+Z69 8../src/statistics_calc_tb.vhd
+Z70 F../src/statistics_calc_tb.vhd
+l0
+L8 1
+VejRb2MK?3XUKicj<2:K403
+!s100 gKF6aMiNi0PR8NdYZefzY1
+R8
+32
+R64
+!i10b 1
+Z71 !s108 1711451494.000000
+Z72 !s90 -reportprogress|300|../src/statistics_calc_tb.vhd|
+Z73 !s107 ../src/statistics_calc_tb.vhd|
+!i113 1
+R13
+Abehave
+R2
+R3
+R4
+R5
+Z74 DEx4 work 18 statistics_calc_tb 0 22 ejRb2MK?3XUKicj<2:K403
+!i122 767
+l75
+Z75 L11 170
+Z76 VPYfemA?Hfmz74E3_OJL:D2
+Z77 !s100 nULe:Vd<oVG2Ak7G5Z7kl0
+R8
+32
+R64
+!i10b 1
+R71
+R72
+R73
+!i113 1
+R13
+Esync_diff
+Z78 w1710937561
+R4
+R5
+!i122 761
+R0
+Z79 8../src/sync_diff.vhd
+Z80 F../src/sync_diff.vhd
+l0
+L4 1
+V=DS56FFlbL:]1o_B7M>UT1
+!s100 @z:aUMD@jD`j>4RMgl2bN2
+R8
+32
+Z81 !s110 1711451488
+!i10b 1
+Z82 !s108 1711451485.000000
+Z83 !s90 -reportprogress|300|../src/sync_diff.vhd|
+Z84 !s107 ../src/sync_diff.vhd|
+!i113 1
+R13
+Abehave
+R4
+R5
+DEx4 work 9 sync_diff 0 22 =DS56FFlbL:]1o_B7M>UT1
+!i122 761
+l23
+L18 26
+VYG:TEZgJc6ZXnBahJ5Qb43
+!s100 KA0bl:^NWJ3SnHS[^hbWb0
+R8
+32
+R81
+!i10b 1
+R82
+R83
+R84
+!i113 1
+R13
